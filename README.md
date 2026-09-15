@@ -1,9 +1,12 @@
 # Dashboard UI
 
-Admin dashboard interface built with vanilla JavaScript (HTML, CSS, JS) — no framework.
+Admin dashboard interface for managing an e-commerce platform, built with vanilla JavaScript (HTML, CSS, JS) — no framework.
 
 ## Features
-- [اكتبي هنا شنوة يعرض الداشبورد بالضبط — مثلاً: عرض إحصائيات، جداول بيانات، إلخ]
+- Overview panel with key stats (users, posts, products)
+- Product management table (name, price)
+- Sidebar navigation: Dashboard, Clients, Products, Charts, Posts, Favorites, Settings
+- User profile section with logout
 
 ## Technologies
 - HTML5
